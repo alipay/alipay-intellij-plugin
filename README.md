@@ -12,7 +12,7 @@
 
 ## 插件安装
 
-在 [Releases](https://github.com/alipay/alipay-intellij-plugin/releases) 页选择最新的插件版本（`alipay-intellij-plugin-v1.x.x.zip`）进行下载
+在 [Releases](https://docs.open.alipay.com/11111/ix9yky/) 页选择最新的插件版本（`alipay-intellij-plugin-v1.x.x.zip`）进行下载
 
 下载完成后，IDE 中 `Preferences` (Windows 下为 `Settings`) => `Plugins` => `Install plugin from disk...`，点选已下载的 Zip 包进行安装，依照提示重启 IDE 生效
 
