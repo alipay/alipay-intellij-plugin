@@ -4,10 +4,11 @@
 
 ### 一、支付宝小程序云应用
 
+- 提供生成openapi模板代码能力
 - 提供小程序云应用创建向导、一键启停部署等云服务能力
 - 提供 SOFABoot 应用框架的创建向导及示例工程
 
-更多请参考：https://docs.alipay.com/mini/cloud-service/xbflqq
+更多请参考：https://docs.open.alipay.com/11111
 
 ## 插件安装
 
